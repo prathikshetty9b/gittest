@@ -15,7 +15,7 @@ git remote add origin git@github.com:prathikshetty9b/test.git
 git push -u origin main
 ```
 
-### P****ush an existing repository from the command line****
+### Push an existing repository from the command line
 
 ```bash
 git remote add origin git@github.com:prathikshetty9b/test.git
@@ -36,6 +36,8 @@ git push -u origin main
 | git rebase branch-name | Rewrites without merge commit |
 | git revert | Revert back |
 | git clone url | Copy repo  |
+| git branch -d branch-name | Delete Branch |
+| git log | Log of historical changes. |
 
 ## Notes
 
